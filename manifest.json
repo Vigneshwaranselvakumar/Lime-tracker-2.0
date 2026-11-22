@@ -1,0 +1,11 @@
+{
+  "name": "Lime Tracker",
+  "short_name": "Lime Tracker",
+  "description": "Personal Expense, Commission & Debt Tracker for Zepto & Rapido",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
